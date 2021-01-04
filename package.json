@@ -1,6 +1,6 @@
 {
   "name": "npm-holamundo-mfil",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Concatena tu nombre",
   "main": "src/index.js",
   "scripts": {
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfernandail/npm-prueba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mfernandail/npm-prueba/issues"
+  },
+  "homepage": "https://github.com/mfernandail/npm-prueba#readme"
 }
